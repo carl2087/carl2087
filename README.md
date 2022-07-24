@@ -8,8 +8,11 @@
 <hr>
 
 
+<h2>Contact me<h2>
+<a href="https://www.linkedin.com/in/carl-ellis-287369a6/" target="_blank"><img src="https://github.com/carl2087/carl2087/blob/61650f434f489cf2432137f016877951b33f395f/LI-Logo.png" width="150" height="40"></a>
 
-www.linkedin.com/in/carl-ellis-287369a6
+
+
 
 <!---
 carl2087/carl2087 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
