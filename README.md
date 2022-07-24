@@ -1,5 +1,5 @@
 <img src="https://github.com/carl2087/carl2087/blob/7f8ac0cfde2bf430ce4e253d7400608e5734e53e/updated%20Github%20banner.jpg" alt="read me file banner">
-
+<article>
 <h1>Carl Ellis</h1>
 
 
@@ -7,9 +7,10 @@
 <p>My interests away from coding are Football (LFC), F1, reading books, walking my dogs and my little girl who keeps me so busy it's unbelievable!</p>
 <hr>
 
-
 <h2>Contact me<h2>
-<a href="https://www.linkedin.com/in/carl-ellis-287369a6/" target="_blank"><img src="https://github.com/carl2087/carl2087/blob/61650f434f489cf2432137f016877951b33f395f/LI-Logo.png" width="150" height="40"></a>
+  <a href="https://www.linkedin.com/in/carl-ellis-287369a6/" target="_blank"><img src="https://github.com/carl2087/carl2087/blob/61650f434f489cf2432137f016877951b33f395f/LI-Logo.png" width="150" height="40"></a>
+<hr>
+  </article>
 
 
 
