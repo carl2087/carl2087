@@ -11,7 +11,9 @@ My interests away from coding are Football (LFC), F1, reading books, walking my 
   <a href="https://www.linkedin.com/in/carl-ellis-287369a6/" target="_blank"><img src="https://github.com/carl2087/carl2087/blob/61650f434f489cf2432137f016877951b33f395f/LI-Logo.png" width="100vw" height="25vw"></a>
 <hr>
 
-## My ![HOLOPIN](https://holopin.me/carlelli5)](https://holopin.io/@carlelli5) board
+## My Holopin badge board
+[![@carlelli5's Holopin board](https://holopin.me/carlelli5)](https://holopin.io/@carlelli5)
+
 
 
 
