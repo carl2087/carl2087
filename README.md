@@ -20,17 +20,23 @@ a small website with a few internal links.
 
 [![Goals Five A Side Football](goals-5-a-side.png)](https://github.com/carl2087/goals-5-a-side-football)
 
+<hr>
+
 ### Second Portfolio Project
 #### Princess Pairs
 I created this website using HTML, CSS and JavaScript to create an interactive card matching game. It is my second project as part of my course.
 
 [![Princess pairs card game](princess-pairs.png)](https://github.com/carl2087/princess-pairs)
 
+<hr>
+
 ### Third Portfolio Project
 #### Battleships
 I created a battleship game using Python within a mock terminal. It is the third project as part of my course.
 
 [![Battleships game in Python](battleships.png)](https://github.com/carl2087/battleships)
+
+<hr>
 
 ## My Holopin badge board
 [![@carlelli5's Holopin board](https://holopin.me/carlelli5)](https://holopin.io/@carlelli5)
