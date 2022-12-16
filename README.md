@@ -38,6 +38,13 @@ I created a battleship game using Python within a mock terminal. It is the third
 
 <hr>
 
+## My GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=carl2087&theme=tokyonight&border_radius=6&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/carl2087)
+[![Carl's GitHub stats](https://github-readme-stats.vercel.app/api?username=carl2087&theme=tokyonight)](https://github.com/carl2087)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carl2087&theme=tokyonight)](https://github.com/carl2087)
+
 ## My Holopin badge board
 [![@carlelli5's Holopin board](https://holopin.me/carlelli5)](https://holopin.io/@carlelli5)
 
