@@ -63,6 +63,8 @@ I created a battleship game using Python within a mock terminal. It is the third
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carl2087&theme=tokyonight)](https://github.com/carl2087)
 
+<hr>
+
 ## My Holopin badge board
 [![@carlelli5's Holopin board](https://holopin.me/carlelli5)](https://holopin.io/@carlelli5)
 
