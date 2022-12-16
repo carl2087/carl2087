@@ -11,6 +11,27 @@ My interests away from coding are Football (LFC), F1, reading books, walking my 
   <a href="https://www.linkedin.com/in/carl-ellis-287369a6/" target="_blank"><img src="https://github.com/carl2087/carl2087/blob/61650f434f489cf2432137f016877951b33f395f/LI-Logo.png" width="100vw" height="25vw"></a>
 <hr>
 
+## Portfolio projects for Code Institute course
+
+### First Portfolio Project
+#### Goals! 5-a-side football
+I designed this website for a 5 a side football league based in Scotland. It is my first project as part of my Code Institute course and uses HTML and CSS to build 
+a small website with a few internal links.
+
+[![Goals Five A Side Football](goals-5-a-side.png)](https://github.com/carl2087/goals-5-a-side-football)
+
+### Second Portfolio Project
+#### Princess Pairs
+I created this website using HTML, CSS and JavaScript to create an interactive card matching game. It is my second project as part of my course.
+
+[![Princess pairs card game](princess-pairs.png)](https://github.com/carl2087/princess-pairs)
+
+### Third Portfolio Project
+#### Battleships
+I created a battleship game using Python within a mock terminal. It is the third project as part of my course.
+
+[![Battleships game in Python](battleships.png)](https://github.com/carl2087/battleships)
+
 ## My Holopin badge board
 [![@carlelli5's Holopin board](https://holopin.me/carlelli5)](https://holopin.io/@carlelli5)
 
