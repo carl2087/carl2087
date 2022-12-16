@@ -7,6 +7,23 @@ Hi I am Carl I am currently enrolled on a course with Code Institue to gain a le
 My interests away from coding are Football (LFC), F1, reading books, walking my dogs and my little girl who keeps me so busy it's unbelievable!
 <hr>
 
+## My Tech Stack
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angularjs" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" width="40" height="40"/>                                                                                                                   
+                                                                                                                             
+  
+  
+</div>
+
 ## Contact me
   <a href="https://www.linkedin.com/in/carl-ellis-287369a6/" target="_blank"><img src="https://github.com/carl2087/carl2087/blob/61650f434f489cf2432137f016877951b33f395f/LI-Logo.png" width="100vw" height="25vw"></a>
 <hr>
@@ -47,6 +64,8 @@ I created a battleship game using Python within a mock terminal. It is the third
 
 ## My Holopin badge board
 [![@carlelli5's Holopin board](https://holopin.me/carlelli5)](https://holopin.io/@carlelli5)
+
+
 
 
 
