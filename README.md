@@ -32,6 +32,8 @@ My interests away from coding are Football (LFC), F1, reading books, walking my 
   <a href="https://www.linkedin.com/in/carl-ellis-287369a6/" target="_blank"><img src="https://github.com/carl2087/carl2087/blob/61650f434f489cf2432137f016877951b33f395f/LI-Logo.png" width="100" height="25"></a>
 <hr>
 
+[![@carl2087 LinkedIn](LI-Logo.png)](https://www.linkedin.com/feed/)
+
 ## Portfolio projects for Code Institute course
 
 ### First Portfolio Project
