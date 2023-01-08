@@ -21,14 +21,15 @@ My interests away from coding are Football (LFC), F1, reading books, walking my 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" width="40" height="40"/>      
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" width="40" height="40"/>   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" width="40" height="40"/>
         
   
   
 </div>
 
 ## Contact me
-  <a href="https://www.linkedin.com/in/carl-ellis-287369a6/" target="_blank"><img src="https://github.com/carl2087/carl2087/blob/61650f434f489cf2432137f016877951b33f395f/LI-Logo.png" width="100vw" height="25vw"></a>
+  <a href="https://www.linkedin.com/in/carl-ellis-287369a6/" target="_blank"><img src="https://github.com/carl2087/carl2087/blob/61650f434f489cf2432137f016877951b33f395f/LI-Logo.png" width="100" height="25"></a>
 <hr>
 
 ## Portfolio projects for Code Institute course
