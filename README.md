@@ -23,8 +23,7 @@ My interests away from coding are Football (LFC), F1, reading books, walking my 
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" width="40" height="40"/>   
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" width="40" height="40"/>
   <img src="https://github.com/carl2087/carl2087/blob/main/Jinja_software_logo.svg" title="Jinja" width="100" height="40"/>
-        
-  
+  <img src="https://github.com/carl2087/carl2087/assets/104762835/2b87bf8f-f9ee-4936-97f9-bdd50d82f598" title="Django" width="40" height="40" />
 </div>
 
 ## Contact me
