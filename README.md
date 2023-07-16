@@ -59,9 +59,18 @@ I created a battleship game using Python within a mock terminal. It is the third
 
 ### Fourth Portfolio Project
 #### The Final Whistle
-I created this product using Django Framework it is a site where users are able to create posts and leave comments on other posts it has full CRUD functionality and allows users to register for an account as well.
+I created this site using Django Framework it is a site where users are able to create posts and leave comments on other posts it has full CRUD functionality and allows users to register for an account as well.
 
 ![The Final Whistle](https://user-images.githubusercontent.com/104762835/235347499-419ec090-8458-4d08-b398-f88da3121f4f.png)
+
+<hr>
+
+### Fifth Portfolio Project
+#### Lifesort
+
+I created this site using React for the front-end and I built a custom API using Djang Rest Framework. It is a task management site allowing the users to set tasks and manage them accordingly it has full CRUD functionality.
+
+![Lifesort](https://github.com/carl2087/carl2087/blob/main/lifesort-responsive.png)
 
 <hr>
 
