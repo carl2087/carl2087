@@ -55,7 +55,7 @@ I created this website using HTML, CSS and JavaScript to create an interactive c
 #### Battleships
 I created a battleship game using Python within a mock terminal. It is the third project as part of my course.
 
-[![Battleships game in Python](battleships.png)](https://github.com/carl2087/battleships)
+[![Battleships game in Python](battleships.png)](battleships.png)
 
 <hr>
 
@@ -67,7 +67,7 @@ It is hosted in the site below.
 
 [The Final Whistle](https://the-final-whistle.herokuapp.com/)
 
-![The Final Whistle](https://user-images.githubusercontent.com/104762835/235347499-419ec090-8458-4d08-b398-f88da3121f4f.png)
+![The Final Whistle](final-whistle-respons.png)
 
 <hr>
 
