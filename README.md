@@ -44,7 +44,7 @@ a small website with a few internal links.
 <hr>
 
 ### Second Portfolio Project
-#### Princess Pairs![am-i-respons](https://github.com/carl2087/carl2087/assets/104762835/3b6b5e0e-0258-4c95-aa43-a108a7ea63df)
+#### Princess Pairs
 
 I created this website using HTML, CSS and JavaScript to create an interactive card matching game. It is my second project as part of my course.
 
