@@ -55,7 +55,7 @@ I created this website using HTML, CSS and JavaScript to create an interactive c
 #### Battleships
 I created a battleship game using Python within a mock terminal. It is the third project as part of my course.
 
-[![Battleships game in Python](battleships.png)](battleships.png)
+[![Battleships game in Python](ship-respons.png)](battleships.png)
 
 <hr>
 
