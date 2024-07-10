@@ -37,7 +37,7 @@ My interests away from coding are Football (LFC), F1, reading books, walking my 
 I designed this website for a 5 a side football league based in Scotland. It is my first project as part of my Code Institute course and uses HTML and CSS to build 
 a small website with a few internal links.
 
-[![Goals Five A Side Football](goals-5-a-side.png)](https://github.com/carl2087/goals-5-a-side-football)
+[![Goals Five A Side Football](am-i-respons.png)](https://github.com/carl2087/goals-5-a-side-football)
 
 <hr>
 
