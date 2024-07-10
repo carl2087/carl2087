@@ -47,7 +47,7 @@ a small website with a few internal links.
 
 I created this website using HTML, CSS and JavaScript to create an interactive card matching game. It is my second project as part of my course.
 
-[![Princess pairs card game](princess-pairs.png)](https://github.com/carl2087/princess-pairs)
+[![Princess pairs card game](prin-pairs-respons.png)](https://github.com/carl2087/princess-pairs)
 
 <hr>
 
