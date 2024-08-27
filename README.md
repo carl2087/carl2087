@@ -87,31 +87,29 @@ It is hosted on the site below
 
 ## My GitHub Stats
 
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td valign="top" width="50%">
-      <img src="https://streak-stats.demolab.com?user=carl2087&theme=tokyonight&border_radius=6&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+        <td style="border: none; padding: 0;  height: 80%;"width="50%"; >
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carl2087&theme=tokyonight" alt="Top Langs" />
     </td>
-    <td valign="top" width="50%">
+    <td style="border: none; padding: 0;">
       <img src="https://github-readme-stats.vercel.app/api?username=carl2087&theme=tokyonight" alt="Carl's GitHub stats" />
     </td>
   </tr>
 </table>
 
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carl2087&theme=tokyonight" alt="Top Langs" />
+    <td style="border: none; padding: 0;">
+      <img src="https://streak-stats.demolab.com?user=carl2087&theme=tokyonight&border_radius=6&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
     </td>
-
+    <td style="border: none; padding: 0;" width="50%">
+      <img src="https://holopin.me/carlelli5" alt="@carlelli5's Holopin board" />
+    </td>
   </tr>
 </table>
 
 
-<hr>
-
-## My Holopin badge board
-[![@carlelli5's Holopin board](https://holopin.me/carlelli5)](https://holopin.io/@carlelli5)
 
 
 
