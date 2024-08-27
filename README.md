@@ -87,12 +87,27 @@ It is hosted on the site below
 
 ## My GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=carl2087&theme=tokyonight&border_radius=6&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/carl2087)
-[![Carl's GitHub stats](https://github-readme-stats.vercel.app/api?username=carl2087&theme=tokyonight)](https://github.com/carl2087)
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://streak-stats.demolab.com?user=carl2087&theme=tokyonight&border_radius=6&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=carl2087&theme=tokyonight" alt="Carl's GitHub stats" />
+    </td>
+  </tr>
+</table>
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carl2087&theme=tokyonight)](https://github.com/carl2087)
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carl2087&theme=tokyonight" alt="Top Langs" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://holopin.me/carlelli5" alt="@carlelli5's Holopin board" />
+    </td>
+  </tr>
+</table>
 
 
 <hr>
