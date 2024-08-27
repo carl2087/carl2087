@@ -103,9 +103,7 @@ It is hosted on the site below
     <td valign="top" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carl2087&theme=tokyonight" alt="Top Langs" />
     </td>
-    <td valign="top" width="50%">
-      <img src="https://holopin.me/carlelli5" alt="@carlelli5's Holopin board" />
-    </td>
+
   </tr>
 </table>
 
