@@ -89,22 +89,20 @@ It is hosted on the site below
 
 <table style="border: none; border-collapse: collapse;">
   <tr>
-        <td style="border: none; padding: 0;  height: 80%;"width="50%"; >
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carl2087&theme=tokyonight" alt="Top Langs" />
+    <td style="border: none; padding: 0;  height: 80%;"width="50%"; >
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carl2087&theme=tokyonight&layout=compact" alt="Top Langs"  style="display: block; margin: auto;"/>
     </td>
     <td style="border: none; padding: 0;">
-      <img src="https://github-readme-stats.vercel.app/api?username=carl2087&theme=tokyonight" alt="Carl's GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=carl2087&theme=tokyonight" alt="Carl's GitHub stats"  style="display: block; margin: auto;"/>
     </td>
   </tr>
-</table>
 
-<table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="border: none; padding: 0;">
-      <img src="https://streak-stats.demolab.com?user=carl2087&theme=tokyonight&border_radius=6&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=carl2087&theme=tokyonight&border_radius=6&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"  style="display: block; margin: auto;"/>
     </td>
     <td style="border: none; padding: 0;" width="50%">
-      <img src="https://holopin.me/carlelli5" alt="@carlelli5's Holopin board" />
+      <img src="https://holopin.me/carlelli5" alt="@carlelli5's Holopin board"  style="display: block; margin: auto;"/>
     </td>
   </tr>
 </table>
