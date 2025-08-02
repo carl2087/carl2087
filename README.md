@@ -3,8 +3,12 @@
 # Carl Ellis
 
 
-Hi I am Carl I am currently enrolled on a course with Code Institue to gain a level 5 diploma to become a Full Stack Devoloper. I've always had a passion for learning new things and how computers work so I decided to take the plunge on the course and learning to code has become a full time obsession now.
-My interests away from coding are Football (LFC), F1, reading books, walking my dogs and my little girl who keeps me so busy it's unbelievable!
+Hi, I'm Carl – a Full Stack Developer.
+I started my coding journey through a Level 5 Diploma with Code Institute, where I learned the fundamentals of web development including Python, JavaScript, Django, and React. Since completing the course, I've been working professionally as a Full Stack Developer.
+
+These days, I'm working primarily with the VILT stack – Laravel, Inertia.js, Tailwind CSS, and Vue.js – building modern web applications and continually growing my skills in full-stack development.
+
+Outside of coding, I'm into football (LFC 🔴), Formula 1, reading, walking my dogs, and most importantly, chasing after my little girl—who keeps me on my toes more than any bug ever could!
 <hr>
 
 ## My Tech Stack
