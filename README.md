@@ -1,4 +1,4 @@
-[github-header-banner.png](https://github.com/carl2087/carl2087/blob/28d1c1e2e2293ea1eecd3e9bb66062078ea17513/github-header-banner.png)
+![github-header-banner.png](https://github.com/carl2087/carl2087/blob/28d1c1e2e2293ea1eecd3e9bb66062078ea17513/github-header-banner.png)
 
 # Carl Ellis
 
