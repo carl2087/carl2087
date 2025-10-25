@@ -1,4 +1,4 @@
-![read me file banner](https://github.com/carl2087/carl2087/blob/7f8ac0cfde2bf430ce4e253d7400608e5734e53e/updated%20Github%20banner.jpg)
+![read me file banner](https://github.com/carl2087/carl2087/blob/7f8ac0cfde2bf430ce4e253d7400608e5734e53e/github-header-banner.png)
 
 # Carl Ellis
 
